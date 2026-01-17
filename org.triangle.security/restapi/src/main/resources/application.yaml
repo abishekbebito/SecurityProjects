@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: restapi
+  security:
+    user:
+      name: admin
+      password: admin
+server:
+  port: 8081
+
